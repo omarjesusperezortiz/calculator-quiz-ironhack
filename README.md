@@ -14,16 +14,16 @@
 ---
 <h2 >About the project: </h2>
 
-<h3> Task Function. </h3>
+<h3> Calculator function </h3>
 
 <h2 align="center">
-<img width="400px" src="https://github.com/omarjesusperezortiz/calculator-quiz-ironhack/blob/main/media/Captura%20de%20pantalla%202022-11-11%20a%20las%201.59.20.png" alt="taskgif">
+<img width="400px" src="https://github.com/omarjesusperezortiz/calculator-quiz-ironhack/blob/main/media/Captura%20de%20pantalla%202022-11-11%20a%20las%202.01.53.png" alt="taskgif">
 </h2>
 
-<h3>Sign Up function with SupaBase.</h3>
+<h3>Error display</h3>
 
 <h2 align="center">
-<img width="400px" src="https://github.com/omarjesusperezortiz/calculator-quiz-ironhack/blob/main/media/error" alt="taskgif">
+<img width="400px" src="https://github.com/omarjesusperezortiz/calculator-quiz-ironhack/blob/main/media/error.png" alt="taskgif">
 </h2>
 
 
